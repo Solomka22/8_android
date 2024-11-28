@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">8_android</string>
+    <string-array name="beer_titles">
+        <item>Жигулевское</item>
+        <item>Эсса</item>
+        <item>Гараж</item>
+    </string-array>
+    <string-array name="beer_descriptions">
+        <item>Дешман, но норм</item>
+        <item>Для 14 леток</item>
+        <item>Ну норм</item>
+    </string-array>
+</resources>
